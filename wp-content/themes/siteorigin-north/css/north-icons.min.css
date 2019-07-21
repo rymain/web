@@ -1,0 +1,13 @@
+@font-face {font-family: north-icons;src: url("fonts/north-icons.eot");src: url("fonts/north-icons.eot") format("embedded-opentype"),url("fonts/north-icons.ttf") format("truetype"),url("fonts/north-icons.woff") format("woff"),url("fonts/north-icons.svg") format("svg");font-weight: 400;font-style: normal;}
+[class*=" north-icon-"], [class^=north-icon-] {font-family: north-icons;speak: none;font-style: normal;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.north-icon-comments:before {content: "";}
+.north-icon-user:before {content: "";}
+.north-icon-double-previous:before {content: "";}
+.north-icon-double-next:before {content: "";}
+.north-icon-previous:before {content: "";}
+.north-icon-next:before {content: "";}
+.north-icon-cart:before {content: "";}
+.north-icon-add:before {content: "";}
+.north-icon-search:before {content: "";}
+.north-icon-calendar:before {content: "";}
+.north-icon-bag:before {content: "";}
